@@ -21,6 +21,9 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
+## in this project, I use Vuex4 in an efficient way. Also, use Axios by creating a axios instance.
+
+
 ## Project Setup
 
 ```sh
